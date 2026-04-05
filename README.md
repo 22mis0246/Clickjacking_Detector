@@ -1,7 +1,8 @@
 # Clickjacking Protection Visualizer
 
 <img width="1629" height="752" alt="image" src="https://github.com/user-attachments/assets/f381791d-af44-47c2-a039-d8b8b09d9880" />
-
+Behind the scene of the attack
+<img width="947" height="537" alt="image" src="https://github.com/user-attachments/assets/37ce0c44-8815-48be-a3f8-b06517841ba6" />
 ## 📌 Description
 This project demonstrates a clickjacking attack and provides a browser extension to detect it.
 
